@@ -6,4 +6,4 @@
 * Off screen deletion
 * Sound
 
-  [https://drive.google.com/drive/folders/1RzZV67VTenE8e6JMUZReNMHZtXa1M5rr?dmr=1&ec=wgc-drive-hero-goto]()
+  [https://drive.google.com/drive/folders/1RzZV67VTenE8e6JMUZReNMHZtXa1M5rr]()
