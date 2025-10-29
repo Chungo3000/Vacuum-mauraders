@@ -7,7 +7,7 @@
 * Sound
 * Music
 
-To make this game, download the latest version of GDevelop 5. Open "Game3Template.json" and open that code into GDevelop 5.
+To make this game, download the latest version of GDevelop 5. Open "Game 3 Template.json" and open that code into GDevelop 5.
 
 GDevelop 5 was used to create this game.
 
