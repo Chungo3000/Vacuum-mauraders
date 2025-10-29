@@ -5,6 +5,9 @@
 * Damage
 * Off screen deletion
 * Sound
+* Music
+
+To make this game, download the latest version of GDevelop 5. Open "Source" and open that code into GDevelop 5.
 
 GDevelop 5 was used to create this game.
 
